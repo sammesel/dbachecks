@@ -21,7 +21,9 @@ catch {
     Write-Error "Failed to Install Pester $($_)"
 }
 
-
+# 
+# Sam's pseudo documentation added
+#
 # Install dbatools
 try {
     Write-Output "Installing PSFramework"
